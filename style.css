@@ -1,0 +1,35 @@
+body{
+    background-color: #34626c;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+.dice{
+    display: inline-block;
+    font-size: 50px;
+    margin: 10px;
+}
+button{
+    padding: 25px;
+    background-color: #a20a0a;
+    border: none;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #aa3a3a;
+}
+img{
+    height: 150px;
+}
+footer{
+    text-align: center;
+    margin: 20px;
+}
